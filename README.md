@@ -6,4 +6,6 @@ Dans le cadre d'Acces Code School, nous avions le choix de faire un redesign de 
 
 J'ai choisi de créer une landing page de Whats'app 
 
-![preview](what.png)
+![preview](WhatsApp_desktop.png)
+
+![preview](whatsapp_mobile.png)
